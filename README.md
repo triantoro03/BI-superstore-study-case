@@ -1,5 +1,5 @@
 # BI-superstore-study-case
-This is my homework study cases for my business intelligence short course from rakamin academy. The result of this homework is to display the tables according to the user's request. To fulfill the request from this user, I use pgAdmin (postgresql) to import the superstore's csv file and create my own version query.
+This is my homework study cases for my business intelligence short course from rakamin academy. The result of this homework is to display the tables according to the user's request. To fulfill the request from this user, I use pgAdmin (postgresql) to import the superstore's csv file and create my own version query. You can see my results in SQL_HW_Superstore.pdf file and i also share the dataset in the superstore dataset folder.
 
 ## homework description
 As one of the Business Intelligence Analysts in the Superstore, you are asked to support analysis needs, both from the internal BI team itself and from other teams such as Marketing, Business Development, Sales, etc.
